@@ -3,13 +3,13 @@
 # **Analysis of Top Movies and Genres**
 
 
-![alt text](Images/present.png)
+![alt text](images/present.png)
 
  **Overview**
 
 This research project delves into the captivating realm of cinema to gain insights into the landscape of renowned films and their commercial triumphs. It extends beyond mere popularity to scrutinize the box office performance trends of blockbuster movies, aiming to uncover the factors contributing to their remarkable success in terms of both widespread appeal and revenue generation, both domestically and globally. The study involves descriptive analysis of the domestic and foreign gross revenues of movies, as well as an examination of the studios behind their production, utilizing data primarily sourced from IMDB.
 
-![alt text](Images/imdbs2.jpg)
+![alt text](images/imdbs2.jpg)
 
  **Business Understanding**
 
@@ -19,7 +19,7 @@ This strategy is informed by a thorough analysis of recent developments in the m
 
 Utilizing data from IMDb, a premier online movie database, along with box office records, Microsoft can make informed decisions as they venture into the realm of original movie production. This comprehensive approach ensures that their endeavors are strategically aligned with market trends and audience preferences.
 
-![alt text](Images/download.jpg)
+![alt text](images/download.jpg)
 
 
 
@@ -29,7 +29,7 @@ The primary data sources utilized for this analysis are sourced from IMDb, the r
 
 By leveraging these datasets, the aim is to identify the most popular movies, prevalent movie genres, and notable movie producers and directors who have contributed to the creation of successful films. Despite encountering datasets with varying ratings, rigorous filtering techniques have been employed to extract information about the best-performing movies. The resulting dataset offers comprehensive details about these top-performing movies and their associated information.
 
-![alt text](Images/black.jpg)
+![alt text](images/black.jpg)
 
 
 **Data Presentation**
@@ -38,13 +38,13 @@ Some of the datasources used are primarily from the imdb which is the internet m
 
 **Data Analysis**
 
-![alt text](Images/genre-graph.png)
+![alt text](images/genre-graph.png)
 
-![alt text](Images/genre-piechart.png)
+![alt text](images/genre-piechart.png)
 
-![alt text](Images/production.png)
+![alt text](images/production.png)
 
-![alt text](Images/scatter-revenue.png)
+![alt text](images/scatter-revenue.png)
 
 **Conclusion**
 
