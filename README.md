@@ -1,4 +1,4 @@
-<span style="color:orange">
+
 
 # **Analysis of Top Movies and Genres**
 
@@ -29,6 +29,7 @@ The primary data sources utilized for this analysis are sourced from IMDb, the r
 By leveraging these datasets, the aim is to identify the most popular movies, prevalent movie genres, and notable movie producers and directors who have contributed to the creation of successful films. Despite encountering datasets with varying ratings, rigorous filtering techniques have been employed to extract information about the best-performing movies. The resulting dataset offers comprehensive details about these top-performing movies and their associated information.
 
 ![alt text](Images/black.jpg)
+
 
 **Data Understanding**
 
