@@ -12,6 +12,7 @@ This research project delves into the captivating realm of cinema to gain insigh
 ![alt text](Images/imdbs2.jpg)
 
  **Business Understanding**
+
 Microsoft stands to gain significant revenue and visibility with the release of their first movie. This initial success could lead to a cascading effect, providing them with a larger platform to produce even higher-quality and more numerous movies in the future. If their debut film proves to be a major hit, it may pave the way for the development of a television show as well. 
 
 This strategy is informed by a thorough analysis of recent developments in the movie industry, with a focus on profitable box office performances. By identifying the themes, genres, and features that resonate with audiences and generate substantial revenues, Microsoft can tailor their content to maximize its appeal. Additionally, studying the successful films of competitors and industry leaders provides valuable insights for decision-making.
@@ -31,7 +32,7 @@ By leveraging these datasets, the aim is to identify the most popular movies, pr
 ![alt text](Images/black.jpg)
 
 
-**Data Understanding**
+**Data Presentation**
 
 Some of the datasources used are primarily from the imdb which is the internet movies database containing tables filled with movies and details of said movies ie ratings and directors.Explored potential secondary sources of data such as box office movies and its revenues that contain both the domestic and foreign gross revenues earned by said movies.
 
@@ -46,6 +47,7 @@ Some of the datasources used are primarily from the imdb which is the internet m
 ![alt text](Images/scatter-revenue.png)
 
 **Conclusion**
+
 Making the first original movie based off of the top three genres namemly- Action,Adventure,Sci-Fi - is recommended to yield the most profitable results
 
 The recommended production budget is approximately 214,060,000$
